@@ -1,0 +1,21 @@
+{
+  "name": "@jtwebb/tldextract",
+  "description": "Extract domain, subdomain and tld from a url",
+  "version": "1.0.0",
+  "author": "John Webb",
+  "keywords": ["url", "domain", "subdomaon", "tld", "parse"],
+  "main": "./index",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/jtwebb/tldextract.git"
+  },
+  "homepage": "https://github.com/jtwebb/tldextract.git"
+}
+
